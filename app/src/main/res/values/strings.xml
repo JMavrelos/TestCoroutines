@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCoroutines</string>
+    <string name="push_me">Push Me!!!!</string>
+</resources>
